@@ -30,6 +30,7 @@ const createRepositoryCard = (repository, index) => {
   return article;
 };
 
+
 const renderRepositories = (repositories) => {
   repositoryList.replaceChildren(...repositories.map(createRepositoryCard));
   repositoryCount.textContent = `${repositories.length} repositories`;
