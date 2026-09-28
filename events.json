@@ -1,0 +1,42 @@
+[
+  {
+    "name": "astro",
+    "full_name": "withastro/astro",
+    "description": "The web framework for content-driven websites.",
+    "language": "TypeScript",
+    "stars": 49600,
+    "forks": 4300,
+    "url": "https://github.com/withastro/astro",
+    "starred_at": "2026-09-24T10:30:00Z"
+  },
+  {
+    "name": "ripgrep",
+    "full_name": "BurntSushi/ripgrep",
+    "description": "A recursively searching tool that respects your gitignore rules.",
+    "language": "Rust",
+    "stars": 56000,
+    "forks": 2400,
+    "url": "https://github.com/BurntSushi/ripgrep",
+    "starred_at": "2026-09-18T14:15:00Z"
+  },
+  {
+    "name": "htmx",
+    "full_name": "bigskysoftware/htmx",
+    "description": "High power tools for HTML.",
+    "language": "JavaScript",
+    "stars": 44000,
+    "forks": 1800,
+    "url": "https://github.com/bigskysoftware/htmx",
+    "starred_at": "2026-09-11T08:45:00Z"
+  },
+  {
+    "name": "shadcn-ui",
+    "full_name": "shadcn-ui/ui",
+    "description": "Beautifully designed components that you can copy and paste into your apps.",
+    "language": "TypeScript",
+    "stars": 92000,
+    "forks": 7200,
+    "url": "https://github.com/shadcn-ui/ui",
+    "starred_at": "2026-09-05T16:20:00Z"
+  }
+]
